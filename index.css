@@ -131,6 +131,7 @@ span{
     display: inline-block;
     padding: 4px;
     color:white;
+    text-align: center;
 }
 .education{
     display: flex;
